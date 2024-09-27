@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-###This project involves analyzing messy Airbnb data to derive meaningful insights. The primary objective is to clean, process, and analyze the data to identify key patterns and trends that can inform business decisions and enhance the customer experience.
+### This project involves analyzing messy Airbnb data to derive meaningful insights. The primary objective is to clean, process, and analyze the data to identify key patterns and trends that can inform business decisions and enhance the customer experience.
 
 ## Key Features
 
